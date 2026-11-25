@@ -7,6 +7,7 @@ I build practical tools for Python workflows, data cleaning, and reporting. I al
 | Project | What it does |
 | --- | --- |
 | [PyFlow Studio](https://github.com/waseh222/pyflow-studio) | Visual workflow editor that generates and exports Python. Includes templates, data connections, and an expression editor. |
+| [Mr Data Studio](https://github.com/waseh222/mr-data-studio) | Local data-analysis studio with interactive charts, model evaluation, and document Q&A. Early v2.0 source snapshot. |
 | [The Great Egg Heist](https://github.com/waseh222/the-great-egg-heist) | Roblox Studio game prototype with egg collection, expeditions, pets, and ranch progression. |
 | [Dream Café & Mall](https://github.com/waseh222/dream-cafe-mall) | Roblox Studio starter with a café queue, a two-stage cooking loop, and a guided quest. |
 
