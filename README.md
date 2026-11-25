@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Abdul Waseh
 
-<!--
-**waseh222/waseh222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Python tools for data cleaning, reporting, and automation. I’m learning to build and evaluate machine learning models and create AI apps that answer questions from documents.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**wasehbot**](https://github.com/waseh222/wasehbot) is a small educational bot written in Python.
+
+## What I’m building toward
+
+- **Data cleaning and reporting** — turn messy CSV or Excel data into a clean dataset, charts, and a short summary.
+- **Tabular machine learning** — compare a baseline with a prediction model and show how it performs on held-out data.
+- **Document Q&A** — build an app that answers questions from documents and cites the passages it used.
+
+I work with Python, pandas, NumPy, scikit-learn, and Streamlit. I’m open to small Python projects involving CSV cleanup, reporting, and repetitive file tasks.
