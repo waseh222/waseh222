@@ -1,15 +1,15 @@
 # Hi, I’m Abdul Waseh
 
-I build Python tools for data cleaning, reporting, and automation. I’m learning to build and evaluate machine learning models and create AI apps that answer questions from documents.
+I build practical tools for Python workflows, data cleaning, and reporting. I also prototype games in Roblox Studio with Luau.
 
-## Featured project
+## Featured projects
 
-[**wasehbot**](https://github.com/waseh222/wasehbot) is a small educational bot written in Python.
+| Project | What it does |
+| --- | --- |
+| [PyFlow Studio](https://github.com/waseh222/pyflow-studio) | Visual workflow editor that generates and exports Python. Includes templates, data connections, and an expression editor. |
+| [The Great Egg Heist](https://github.com/waseh222/the-great-egg-heist) | Roblox Studio game prototype with egg collection, expeditions, pets, and ranch progression. |
+| [Dream Café & Mall](https://github.com/waseh222/dream-cafe-mall) | Roblox Studio starter with a café queue, a two-stage cooking loop, and a guided quest. |
 
-## What I’m building toward
+## What I’m working on
 
-- **Data cleaning and reporting** — turn messy CSV or Excel data into a clean dataset, charts, and a short summary.
-- **Tabular machine learning** — compare a baseline with a prediction model and show how it performs on held-out data.
-- **Document Q&A** — build an app that answers questions from documents and cites the passages it used.
-
-I work with Python, pandas, NumPy, scikit-learn, and Streamlit. I’m open to small Python projects involving CSV cleanup, reporting, and repetitive file tasks.
+I’m developing skills in tabular machine learning and document Q&A. I’m open to small Python projects involving CSV cleanup, reporting, and repetitive file tasks.
